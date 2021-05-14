@@ -1,0 +1,11 @@
+flask
+pymongo
+flask-cors
+sanic
+Sanic-Cors
+psycopg2
+sqlalchemy
+Flask-SQLAlchemy
+PyJWT
+requests
+flask_swagger_ui

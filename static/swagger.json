@@ -1,0 +1,11 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "description": "Speridian Technologies",
+    "version": "1.0.0",
+    "title": "Employee-Details-Api",
+    "contact": {
+      "email": "dhanraj.sahoo@speridian.com"
+    }
+  }
+}
